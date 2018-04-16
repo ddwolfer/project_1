@@ -1,4 +1,5 @@
 printf ('hello world')
 printf ('HAHAHA')
 printf ('How are you')
+<<<<<<< HEAD
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
